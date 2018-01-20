@@ -14,7 +14,9 @@
 
 * 在cookies.txt中输入你的cookie(可输入多个)
 * 在uids.txt中输入要爬取人的uid
-* python content.py
+```python
+python content.py
+```
 * 其他功能请自行修改upload.py中的代码或等待作者有空时整理
 
 ## 参数
