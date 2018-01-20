@@ -22,8 +22,11 @@ python content.py
 ## 参数
 
 * --p 要爬取的页数,默认20
-* --m 写入文件方式,默认a(追加),如 python content.py --m w 则为覆盖.
-      大规模爬取推荐使用默认值,有断点续爬功能
+* --m 写入文件方式,默认a(追加),如
+```Python
+python content.py --m w 则为覆盖.
+```
+大规模爬取推荐使用默认值,有断点续爬功能
 * --u uid文件保存位置,默认uids.txt
 * --c Cookie文件保存位置,默认cookies.txt
 * --f 输出位置,默认result.txt
