@@ -1,0 +1,4 @@
+#在这里输入cookies,换行分隔,更换账号可以或者不同的cookie,cookie越多爬取速度越快
+#获得方法:浏览器F12,打开weibo.cn,在网络/Network一栏中选择与weibo.cn,复制Cookie一项
+#下面是正常Cookie的格式(星号为字符)
+#SUB=_2A253E************lEW8yrFzj2IHXVU_bw8**************************6xoDeq2DGsXzFBmn6_s-gZUF13; SUHB=0M*******A7Zvj; SCF=AvkgK***************HPgeGVEJCKV2Fbu0ip_zeKE2NbeFI*****************vqmhStEIu7P--S7i***48.; _T_WM=425295*******************0c8d763
